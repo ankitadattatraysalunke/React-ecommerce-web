@@ -1,6 +1,6 @@
 interface propsType{
-    img: String;
-    name: String;
+    img: string;
+    name: string;
     count: string;
 
 }
